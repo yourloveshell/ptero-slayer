@@ -1,0 +1,1 @@
+This jar file can be use for ddoing you can run it anywhere like windows linux even pterodayctl panel like just replace with server jars and after that put ip and port in console you are good to go : ) 🎶
